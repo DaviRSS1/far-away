@@ -7,7 +7,7 @@
 
 ## 📁 Acesso ao Projeto
 
-Para acessar o projeto, clique <a href="https://cardapio-react-zeta.vercel.app/" target="_blank">aqui</a>.
+Para acessar o projeto, clique <a href="https://far-away-six.vercel.app/" target="_blank">aqui</a>.
 
 ## ✔️ Tecnologias Utilizadas
 
